@@ -1,0 +1,26 @@
+ls
+echo -e hi how are
+echo "don"
+echo -n haha
+ls -i
+ls -a
+date
+date -R
+date -u
+mkdir dog 
+mkdir -m a=rwx foll
+rm sul
+rm -i sul
+rm -f kul
+history -c
+history
+pwd
+pwd -L
+pwd -P
+cat zebra.txt
+cat -n zebra.txt
+cat -E zebra.txt
+cd -L
+cd -P
+cd
+exit
